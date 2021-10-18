@@ -1,4 +1,4 @@
-# wald
+# wald (scool project)
 
 Code for Lego Mindstorms forest obstacle Roboter
 
